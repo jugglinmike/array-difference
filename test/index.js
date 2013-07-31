@@ -1,4 +1,4 @@
-var difference = require("..");
+var difference = require("../");
 var test = require("tape");
 
 test("difference", function(t) {

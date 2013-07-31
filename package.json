@@ -15,5 +15,16 @@
   "license": "MIT Expat",
   "devDependencies": {
     "tape": "~1.0.4"
+  },
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/6..latest",
+      "chrome/20..latest",
+      "firefox/15..latest",
+      "safari/5.0.5..latest",
+      "opera/11..latest",
+      "iphone/6"
+    ]
   }
 }
