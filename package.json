@@ -1,0 +1,19 @@
+{
+  "name": "array-difference",
+  "version": "0.0.1",
+  "description": "Utility method for finding the difference between arrays",
+  "main": "difference.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "git@github.com:jugglinmike/array-difference.git",
+  "keywords": [
+    "utility",
+    "array"
+  ],
+  "author": "Mike Pennisi",
+  "license": "MIT Expat",
+  "devDependencies": {
+    "tape": "~1.0.4"
+  }
+}
