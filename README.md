@@ -1,6 +1,9 @@
-# Difference
+# Array Difference
 
-Utility method to compute the difference between two arrays.
+[![browser support](https://ci.testling.com/jugglinmike/array-difference.png)](https://ci.testling.com/jugglinmike/array-difference)
+
+Utility method to compute the difference between two arrays. AMD and CommonJS
+compatible; works in [Node.js](http://nodejs.org) and the browser.
 
 ## Installation
 
