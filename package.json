@@ -12,7 +12,7 @@
     "array"
   ],
   "author": "Mike Pennisi",
-  "license": "MIT Expat",
+  "license": "MIT",
   "devDependencies": {
     "tape": "~1.0.4"
   },
